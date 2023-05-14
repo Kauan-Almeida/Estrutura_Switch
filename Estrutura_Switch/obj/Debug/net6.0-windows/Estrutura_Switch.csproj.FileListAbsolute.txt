@@ -1,0 +1,17 @@
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\bin\Debug\net6.0-windows\Estrutura_Switch.exe
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\bin\Debug\net6.0-windows\Estrutura_Switch.deps.json
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\bin\Debug\net6.0-windows\Estrutura_Switch.runtimeconfig.json
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\bin\Debug\net6.0-windows\Estrutura_Switch.dll
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\bin\Debug\net6.0-windows\Estrutura_Switch.pdb
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.csproj.AssemblyReference.cache
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.Form1.resources
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.csproj.GenerateResource.cache
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.AssemblyInfoInputs.cache
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.AssemblyInfo.cs
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.csproj.CoreCompileInputs.cache
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.dll
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\refint\Estrutura_Switch.dll
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.pdb
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\Estrutura_Switch.genruntimeconfig.cache
+C:\ws-C#\Estrutura_Switch\Estrutura_Switch\obj\Debug\net6.0-windows\ref\Estrutura_Switch.dll
